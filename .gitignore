@@ -1,0 +1,5 @@
+build/
+*.db
+*.db.meta
+test_inserts.txt
+nums.txt
